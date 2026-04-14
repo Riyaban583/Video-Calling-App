@@ -103,7 +103,7 @@ Open [http://localhost:5173](http://localhost:5173) in your browser.
 1. Enter your **name** on the home page
 2. Enter or generate a **Room ID**
 3. Click **Join** — that's it!
-4. Share the Room ID with others to call together 🎉
+4. Share the Room ID with others to call together by a video call. 🎉
 
 ---
 
