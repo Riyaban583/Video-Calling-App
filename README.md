@@ -122,7 +122,7 @@ Open [http://localhost:5173](http://localhost:5173) in your browser.
 - [ ] Zoom / Google Meet–style advanced UI
 - [ ] Mobile-first responsive overhaul
 - [ ] Chat sidebar during calls
-- [ ] Virtual backgrounds
+- [ ] Virtual backgrounds and graphs
 
 ---
 
